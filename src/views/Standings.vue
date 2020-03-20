@@ -131,9 +131,10 @@ export default {
             this.eastStandings = east.sort((a, b) => a.conference.rank - b.conference.rank)
             let west = standings.filter(team => team.conference.name === "west")
             this.westStandings = west.sort((a, b) => a.conference.rank - b.conference.rank)
-         }).catch(error => {
-            console.log(error)
-         });
+         })
+         // .catch(error => {
+         //    // console.log(error)
+         // });
       }
    },
    computed: {
