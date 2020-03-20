@@ -25,7 +25,7 @@
 
    <div class="footer">
       <hr/><br/><br/>
-      <a class="link" href="https://github.com/ercsuh/NBAStats">
+      <a class="link" href="https://github.com/ercsuh/nba_proj">
          <img src='/images/github-logo.svg' width='50'/><br/>MY GITHUB
       </a>
       <br/><br/>
